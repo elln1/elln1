@@ -4,3 +4,4 @@ Aspiring Cybersecurity and IT professional with a strong foundation in Python, c
 - **Languages**: Python, Bash
 - **Networking**: Basic computer networks, network scanning
 - **Databases**: SQLite, MySQL basic
+- **Kali tools**: Nmap, Wireshark, John the ripper, Hydra
